@@ -5,6 +5,6 @@ Our group developed a VR experiment in Unity in which participants walked throug
 
 ![Here you can see a man being inside of the VR world](images/man_using_vr.jepg)
 
-![Here an overview of one of the maps is depicted](images/overview.jepg)
+![Here an overview of one of the maps is depicted](images/overview_map.png)
 
-![Here you can see how the VR world looks like while walking through it](images/view_on_buildings.jpg)
+![Here you can see how the VR world looks like while walking through it](images/view_on_buildings.png)
